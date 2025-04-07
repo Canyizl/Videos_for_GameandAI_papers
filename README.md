@@ -4,6 +4,7 @@ This list maintains my personal videos for sharing papers related to Game design
 ## Contents
 
 * [Game Storyline Generation](#game--storyline--generation)
+* [Game Image Generation](#game--image--generation)
 
 * * *
 
@@ -12,3 +13,7 @@ This list maintains my personal videos for sharing papers related to Game design
 - From Role-Play to Drama-Interaction: An LLM Solution.[[videos]](https://b23.tv/T3rr0W7) [[pdf]](https://arxiv.org/abs/2405.14231)
 
   ![DramaLLM](/Images/dramallm.png)
+
+### Game Image Generation
+- Personal Survey: Diffusion Model with Control and Personalization (ControlNet, IPAdapter, LoRA, Dreambooth). [coming soon].
+![DMCP](/Images/dmcp.png)
